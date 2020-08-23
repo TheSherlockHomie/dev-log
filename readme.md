@@ -18,3 +18,15 @@ _My dev log documenting what I do related to software development and computer s
 -   Still think that I _could_ have solved atleast one more question if I had thought hard enough.
 
 ---
+
+### August 22, 2020, Saturday
+
+**Progress:**
+
+-   Learned about some standard dynamic programming concepts.
+
+**Thoughts:**
+
+-   Currently quite busy teaching a workshop, yet do need to find more time for programming.
+
+---

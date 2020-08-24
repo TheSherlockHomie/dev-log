@@ -30,3 +30,20 @@ _My dev log documenting what I do related to software development and computer s
 -   Currently quite busy teaching a workshop, yet do need to find more time for programming.
 
 ---
+
+### August 23, 2020, Sunday
+
+**Progress:**
+
+-   Participated in [Google Kickstart Round E](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff47)
+-   Solved the first question.
+-   Almost solved the second question. However, in competitive programming, _almost_ doesn't count.
+
+**What I learned:**
+
+-   Constructive Algorithms
+-   How to approach constructive algorithm questions.
+
+**Thoughts:**
+
+-   It was an okay round.

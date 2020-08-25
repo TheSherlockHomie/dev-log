@@ -47,3 +47,19 @@ _My dev log documenting what I do related to software development and computer s
 **Thoughts:**
 
 -   It was an okay round.
+
+---
+
+### August 24, 2020, Monday
+
+**Progress:**
+
+-   Revised Graphs (and taught him some concepts) with Trexxx27
+
+**What I learned:**
+
+-   Apart from revision, learned applications of graph traversal
+-   Checking if bipartite using DFS
+-   Finding shortest path between two nodes in unweighted graph using BFS
+-   Checking connectivity
+-   Finding cycles

@@ -63,3 +63,20 @@ _My dev log documenting what I do related to software development and computer s
 -   Finding shortest path between two nodes in unweighted graph using BFS
 -   Checking connectivity
 -   Finding cycles
+
+---
+
+### August 25, 2020, Tuesday
+
+**Progress:**
+
+-   Participated in [Educational Codeforces Round 94 (Div. 2)](https://codeforces.com/contest/1400).
+-   Was able to solve only one question during the contest, however, as soon as it was over(🤦‍♂️), solved another question by myself!
+
+**What I learned:**
+
+-   You can run a greedy solution iteratively changing the starting variable between runs and find the best answer among them. (I get that this sounds confusing)
+
+**Thoughts:**
+
+-   Great to have friends who participate in contests with you. It is pretty great to be able to discuss the solutions afterward. [(TREXXX27)](https://github.com/TREXXX27)

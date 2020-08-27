@@ -80,3 +80,23 @@ _My dev log documenting what I do related to software development and computer s
 **Thoughts:**
 
 -   Great to have friends who participate in contests with you. It is pretty great to be able to discuss the solutions afterward. [(TREXXX27)](https://github.com/TREXXX27)
+
+---
+
+### August 26, 2020, Wednesday
+
+**Progress:**
+
+-   Revised graphs algorithms (and learned new stuff) with TREXXX27
+
+**What I learned:**
+
+-   Revised shortest path algorithms like Bellman-Ford and Dijkstra
+-   Learnt Floyd-Warshall shortest path algorithm
+-   Dijkstra has a time complexity of O(e + n log n) (the log n comes from the priority queue)
+-   Dijkstra cannot work with negative edges
+-   Bellman-Ford can be used to detect negative cycles
+
+**Thoughts:**
+
+-   Floyd-Warshall vs Dijkstra is an interesting comparison. One takes O(n<sup>3</sup>) to find distances between all nodes with each other, the other takes O(e + n log n), but finds shortest distance between only two nodes.

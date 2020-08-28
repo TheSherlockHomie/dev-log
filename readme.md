@@ -116,6 +116,7 @@ _My dev log documenting what I do related to software development and computer s
 -   Solved a couple of problems on graph traversal
 -   Can do iterative DFS using stacks.
 -   We can use a stack data structure in memory instead of the recursion (i.e. fuction call stack) if we want to save up on memory.
+-   Some recurrent relation questions can sometimes be solved using BFS?!
 
 **Thoughts:**
 

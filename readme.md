@@ -100,3 +100,23 @@ _My dev log documenting what I do related to software development and computer s
 **Thoughts:**
 
 -   Floyd-Warshall vs Dijkstra is an interesting comparison. One takes O(n<sup>3</sup>) to find distances between all nodes with each other, the other takes O(e + n log n), but finds shortest distance between only two nodes.
+
+---
+
+### August 27, 2020, Thursday
+
+**Progress:**
+
+-   Learned about Iterative DFS
+-   Solved [New Year Transportation](https://codeforces.com/problemset/problem/500/A)
+-   Solved [Two Buttons](https://codeforces.com/problemset/problem/520/B) using BFS
+
+**What I learned:**
+
+-   Solved a couple of problems on graph traversal
+-   Can do iterative DFS using stacks.
+-   We can use a stack data structure in memory instead of the recursion (i.e. fuction call stack) if we want to save up on memory.
+
+**Thoughts:**
+
+-   Filtering by topics on CodeForces is useful.

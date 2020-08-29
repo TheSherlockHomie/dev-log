@@ -121,3 +121,21 @@ _My dev log documenting what I do related to software development and computer s
 **Thoughts:**
 
 -   Filtering by topics on CodeForces is useful.
+
+---
+
+### August 28, 2020, Friday
+
+**Progress:**
+
+-   Participated in [Newton's Coding Challenge August 2020](https://my.newtonschool.co/course/06i3zj8m8o/timeline/)
+-   Solved 3 out of 6 questions. The first three were easy, while the last three had an extreme spike in difficulty.
+
+**What I learned:**
+
+-   Sum of all Manhattan Distance can be broken down into linear time using DP as: `curr_sum = prev_sum + (number of previous points)*(manhattan distance between current and last point)`
+
+**Thoughts:**
+
+-   The problems for this contest were not exactly very well defined, nor were the constraints. It was weird seeing not all test cases pass, only for them to get accepted by switching out ints to long longs (even if ints could definitely hold the values, according to the constraints).
+-   Only participated in this contest because it was forwarded by the Training & Placement Cell of my college.

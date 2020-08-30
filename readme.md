@@ -139,3 +139,19 @@ _My dev log documenting what I do related to software development and computer s
 
 -   The problems for this contest were not exactly very well defined, nor were the constraints. It was weird seeing not all test cases pass, only for them to get accepted by switching out ints to long longs (even if ints could definitely hold the values, according to the constraints).
 -   Only participated in this contest because it was forwarded by the Training & Placement Cell of my college.
+
+### August 30, 2020, Sunday
+
+**Progress:**
+
+-   Participated in [Codeforces Round #666 (Div. 2)](https://codeforces.com/contest/1397)
+-   Was able to solve only one question, again :(
+-   However, after the contest, TREXXX27 came up with a solution for another problem and I ended up solving that question.
+
+**What I learned:**
+
+-   Sometimes brute-force with a few well places break statements can solve the question under the time limit.
+
+**Thoughts:**
+
+-   Seems like I am stuck in a plateu. Really need to level up.

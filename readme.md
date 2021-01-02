@@ -155,3 +155,29 @@ _My dev log documenting what I do related to software development and computer s
 **Thoughts:**
 
 -   Seems like I am stuck in a plateu. Really need to level up.
+
+---
+
+Took a break from logging. Definitely did stuff regarding programming, even managed to secure an interview and get a job, just did not log it.
+
+---
+
+### January 2, 2021, Saturday
+
+**Progress:**
+
+-   Mostly watched videos about CRUD apps using nodejs/express and mongodb
+-   Implementing the same using docker
+
+**What I learned:**
+
+-   Interacting with a local database from node
+-   MVC design pattern
+-   View engines
+-   Static vs server side rendering
+-   docker compose for a CRUD app
+
+**Thoughts:**
+
+-   Back to logging after a long, long time!
+-   Happy new year everyone

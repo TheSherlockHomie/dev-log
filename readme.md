@@ -181,3 +181,19 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 
 -   Back to logging after a long, long time!
 -   Happy new year everyone
+
+### January 3, 2021, Sunday
+
+**Progress:**
+
+-   Back to learning typescript! The [Net Ninja TypeScript Tutorial](https://www.youtube.com/watch?v=hcuKd-Q_tP8&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI&index=11&t=7s) is absolutely great
+-   How to renew expired gpg keys to sign your git commits
+
+**What I learned:**
+
+-   DOM and event listeners in typescript.
+-   a bit about renewing gpg keys and transferring them and theie trust databases across machines.
+
+**Thoughts:**
+
+-   Whew, the gpg thing took a lot of my time, but it was extremely interesting to learn more about this stuff.

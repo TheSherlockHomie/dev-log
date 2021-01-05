@@ -197,3 +197,29 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 **Thoughts:**
 
 -   Whew, the gpg thing took a lot of my time, but it was extremely interesting to learn more about this stuff.
+
+### January 4, 2021, Monday
+
+**Progress:**
+
+-   Started [Full Stack Open](fullstackopen.com/en)
+-   Completed part0
+-   Completed part1: Introduction to React
+
+**What I learned:**
+
+-   Single Page Apps (SPAs)
+-   Montoring the transmission using chrome network tab
+-   Getting started with react
+-   what is jsx
+-   components
+-   props
+-   rendering components
+-   passing props to components
+-   javascript array.reduce() method
+
+**Thoughts:**
+
+-   Wanted to learn react since I don't even know when. Finally started!
+-   Initially was going to learn react completely using typescript. Realised it was better to learn react using js only at first.
+-   Full Stack Open is pretty great, in my limited experience till now.

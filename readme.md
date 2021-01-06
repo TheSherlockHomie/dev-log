@@ -182,6 +182,8 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 -   Back to logging after a long, long time!
 -   Happy new year everyone
 
+---
+
 ### January 3, 2021, Sunday
 
 **Progress:**
@@ -197,6 +199,8 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 **Thoughts:**
 
 -   Whew, the gpg thing took a lot of my time, but it was extremely interesting to learn more about this stuff.
+
+---
 
 ### January 4, 2021, Monday
 
@@ -223,3 +227,29 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 -   Wanted to learn react since I don't even know when. Finally started!
 -   Initially was going to learn react completely using typescript. Realised it was better to learn react using js only at first.
 -   Full Stack Open is pretty great, in my limited experience till now.
+
+---
+
+### January 5, 2021, Tuesday
+
+**Progress:**
+
+-   Solved [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+-   Completed part1: javascript of Full Stack Open
+-   Completed part1 assignment: courseinfo!
+-   Learned a lot about javascript
+
+**What I learned:**
+
+-   That is best practice to use functional programming when using React
+-   `arr.concat()` in js
+-   `arr.map()`
+-   `...` operator in js
+-   a lot about functions in js
+-   `this` being weird in js
+-   classes in js
+
+**Thoughts:**
+
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/) is amazing
+-   [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) <-- Amazing

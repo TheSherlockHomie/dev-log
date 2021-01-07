@@ -253,3 +253,25 @@ Took a break from logging. Definitely did stuff regarding programming, even mana
 
 -   [MDN Web Docs](https://developer.mozilla.org/en-US/) is amazing
 -   [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) <-- Amazing
+
+---
+
+### January 6, 2021, Wednesday
+
+**Progress:**
+
+-   Solved [136. Single Number](https://leetcode.com/problems/single-number/) - hashtable & xor
+-   Solved [202. Happy Number](https://leetcode.com/problems/happy-number/) - hash set & floyd's cycle detection algorithm
+-   part1: Component state
+
+**What I learned:**
+
+-   Destructuring in javascript
+-   Re-rendering pages in react
+-   React hooks
+-   Stateful components
+
+**Thoughts:**
+
+-   Getting back into the groove for competetive programming
+-   React has been very interseting thus far, very different from what my view of web development has been.
